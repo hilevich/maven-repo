@@ -1,0 +1,1 @@
+java -jar target\mvp-test-app-help-0.0.1-SNAPSHOT.jar
